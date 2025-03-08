@@ -1,3 +1,6 @@
+Here's the updated README with your GitHub username:  
+
+```md
 # ThinkFast
 
 ## Introduction
@@ -15,7 +18,7 @@ To set up and run ThinkFast on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ThinkFast.git
+   git clone https://github.com/satyammishra82/ThinkFast.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -63,4 +66,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any issues or suggestions, feel free to contact the developer at satyammishra8242@gmail.com.
+```
 
+Let me know if you need any more modifications! 🚀
