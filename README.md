@@ -1,6 +1,4 @@
-Here's the updated README with your GitHub username:  
 
-```md
 # ThinkFast
 
 ## Introduction
@@ -67,5 +65,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any issues or suggestions, feel free to contact the developer at satyammishra8242@gmail.com.
 ```
-
-Let me know if you need any more modifications! 🚀
